@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Problems/Check the value/out/
+/Problems/Check the value/out/production/classes/
+/Problems/Integer part of a number/out/
+/Problems/Integer part of a number/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/.idea
